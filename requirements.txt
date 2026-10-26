@@ -1,0 +1,3 @@
+# Host-side bridge (macOS). libusb itself comes from Homebrew: brew install libusb
+pillow>=10        # answer_render.py: renders answers to 1-bit bitmaps
+anthropic>=0.40   # optional: only for --provider claude and aichat_bridge.py

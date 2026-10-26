@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Main memory dumps written by p7mcs.py (device data, not source)
+mcs_dump/
+
+# Add-in build output (see also addin/.gitignore)
+addin/build*/
+addin/*.g1a
